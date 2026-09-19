@@ -4,9 +4,9 @@ const a= () =>
 }
 const b= () =>
 {
-<<<<<<< HEAD
     alert("5")
-=======
-    return '5'
->>>>>>> new-feature-5500
+} 
+const c=()=>
+{
+    console.log("cccc")
 }
